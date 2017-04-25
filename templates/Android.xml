@@ -6,4 +6,11 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="Snackbar" value="Snackbar.make(findViewById(R.id.$resId$), &quot;$text$&quot;, Snackbar.LENGTH_SHORT).show();" description="Create a new Snackbar" toReformat="true" toShortenFQNames="true">
+    <variable name="resId" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
+    <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
