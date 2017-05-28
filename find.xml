@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'TrendyTrailers'" />
-    <option name="defaultScopeName" value="Project 'TrendyTrailers'" />
+    <option name="customScope" value="Project 'TaskMaker'" />
+    <option name="defaultScopeName" value="Project 'TaskMaker'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'TrendyTrailers'" />
+    <option name="SEARCH_SCOPE" value="Project 'TaskMaker'" />
   </component>
 </application>
