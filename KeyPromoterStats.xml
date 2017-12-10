@@ -1,0 +1,14 @@
+<application>
+  <component name="KeyPromoterStats">
+    <option name="stats">
+      <map>
+        <entry key="'Ctrl+D'" value="2" />
+        <entry key="'Ctrl+NumPad-2'" value="2" />
+        <entry key="'Ctrl+NumPad-3'" value="2" />
+        <entry key="'Ctrl+Quote'" value="2" />
+        <entry key="'F1'" value="1" />
+        <entry key="'F7'" value="2" />
+      </map>
+    </option>
+  </component>
+</application>
